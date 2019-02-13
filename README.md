@@ -1,1 +1,1 @@
-"# github-slideshow" 
+# git-slideshow
